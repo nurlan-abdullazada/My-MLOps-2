@@ -1,4 +1,4 @@
-# My MLOps HW 1
+# My MLOps 2
 
 ![Build Status](https://github.com/nurlan-abdullazada/my_mlops_hw/actions/workflows/ci-build.yaml/badge.svg)
 
